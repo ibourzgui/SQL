@@ -1,1 +1,1 @@
-# week9_work
+# SQL queries
